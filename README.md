@@ -1,16 +1,20 @@
-## Hi there 👋
+ # Hi, I'm Noureddine 👋
 
-<!--
-**Noureddine3103/Noureddine3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ## About me
+   - 🎓 Computer science student
+   - 💻 I build web apps with .NET and PHP
+   - 🚀 Currently working on: 
 
-Here are some ideas to get you started:
+   ## Tech stack
+   - C# / .NET
+   - PHP
+   - SQL
+   - HTML / CSS / JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ## Goals for 2026
+   - Build and ship more complete projects
+   - Improve clean architecture and code quality
+   - Contribute more consistently on GitHub
+
+   ## Contact
+   - GitHub: [Noureddine3103](https://github.com/Noureddine3103)
