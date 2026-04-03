@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1100&color=F59E0B&center=true&vCenter=true&width=1200&lines=Gmail:+noureddinelajnef01%40gmail.com+%7C+LinkedIn:+noureddine-lajnef+%7C+GitHub:+Noureddine3103" alt="Contacts" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1100&color=F59E0B&center=true&vCenter=true&width=1200&lines=noureddinelajnef01%40gmail.com+%7C+noureddine-lajnef+%7C+Noureddine3103" alt="Contacts" />
 </p>
 
 <p align="center">
