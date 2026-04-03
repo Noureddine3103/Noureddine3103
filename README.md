@@ -36,7 +36,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Noureddine3103&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Noureddine3103&theme=radical&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Noureddine3103&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
