@@ -1,11 +1,13 @@
-<h3 align="center">Computer Science Student | .NET & PHP Developer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1400&color=22C55E&center=true&vCenter=true&width=900&lines=Noureddine" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Noureddine" alt="Name" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1400&color=F59E0B&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile" alt="Welcome" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1400&color=FF2D95&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile" alt="Welcome" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:FF2D95&section=footer"/>
 </p>
 
 ---
@@ -34,10 +36,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Noureddine3103&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Noureddine3103&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Noureddine3103&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Noureddine3103&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noureddine3103&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noureddine3103&layout=compact&theme=radical&hide_border=true" />
 </p>
