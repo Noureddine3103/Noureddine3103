@@ -1,9 +1,11 @@
 <h3 align="center">Computer Science Student | .NET & PHP Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/Noureddine3103">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1200&color=2563EB&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Noureddine;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1400&color=22C55E&center=true&vCenter=true&width=900&lines=Noureddine" alt="Name" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1400&color=F59E0B&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile" alt="Welcome" />
 </p>
 
 ---
