@@ -7,6 +7,16 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1100&color=F59E0B&center=true&vCenter=true&width=1200&lines=Gmail:+noureddinelajnef01%40gmail.com+%7C+LinkedIn:+noureddine-lajnef+%7C+GitHub:+Noureddine3103" alt="Contacts" />
+</p>
+
+<p align="center">
+  <a href="mailto:noureddinelajnef01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/noureddine-lajnef-b71113383/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Noureddine3103"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:FF2D95&section=footer"/>
 </p>
 
@@ -17,13 +27,6 @@
 - 💻 Building web apps with **.NET / PHP / SQL**  
 - 🎯 Goal: ship complete, clean projects  
 - 🔥 Focused on improving every single day
-
----
-
-### 🌐 Connect with me
-<p>
-  <a href="https://github.com/Noureddine3103"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
 
 ---
 
