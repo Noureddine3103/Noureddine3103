@@ -1,44 +1,38 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Noureddine" alt="Name" />
-</p>
+# Hi, I'm Noureddine 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1400&color=FF2D95&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile" alt="Welcome" />
-</p>
+Junior Software Developer focused on building clean, practical web applications.
 
-<p align="center">
-  <a href="mailto:noureddinelajnef01@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/noureddine-lajnef-b71113383/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Noureddine3103"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+- 🎓 Computer Science student
+- 💻 Main stack: **C#, .NET, PHP, SQL, JavaScript**
+- 🛠️ Interested in: backend development, web apps, APIs, and database design
+- 🎯 Goal: contribute to real-world products as an intern / junior developer
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:FF2D95&section=footer"/>
-</p>
+## What I’m working on
+- Building full-stack projects with authentication, CRUD workflows, and database integration
+- Improving code quality (project structure, clean commits, readable documentation)
+- Practicing testing and automation basics (Selenium)
 
----
+## Featured Projects
+> (Pin these repositories on your GitHub profile)
 
-### 🚀 About Me
-- 🎓 Computer science student  
-- 💻 Building web apps with **.NET / PHP / SQL**  
-- 🎯 Goal: ship complete, clean projects  
-- 🔥 Focused on improving every single day
+### 1) Task Management API (.NET + SQL Server)
+REST API for task/workflow management with authentication, role-based access, and validation.  
+**Tech:** ASP.NET Core, Entity Framework, SQL Server, JWT  
+**Highlights:** clean architecture, Swagger docs, seed data, error handling
 
----
+### 2) E-commerce Mini App (PHP + MySQL)
+Simple e-commerce flow with product catalog, cart, and order logic.  
+**Tech:** PHP, MySQL, HTML/CSS/JS  
+**Highlights:** session-based cart, SQL schema, admin CRUD, secure form handling
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,html,css,js,mysql,git,github,vscode" />
-</p>
+### 3) UI Test Automation Suite (Selenium)
+Automated functional tests for login/cart flows with reusable test structure.  
+**Tech:** Python, Selenium  
+**Highlights:** positive/negative test cases, clear assertions, maintainable test scripts
 
----
+## Tech Stack
+`C#` `ASP.NET Core` `PHP` `SQL` `JavaScript` `HTML` `CSS` `Git` `GitHub`
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Noureddine3103&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Noureddine3103&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noureddine3103&layout=compact&theme=radical&hide_border=true" />
-</p>
+## Contact
+- LinkedIn: https://www.linkedin.com/in/noureddine-lajnef-b71113383/
+- Email: noureddinelajnef01@gmail.com
