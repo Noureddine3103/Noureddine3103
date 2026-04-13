@@ -1,4 +1,7 @@
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,100:FF2D95&section=header"/>
+</p>
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Noureddine" alt="Name" />
 </p>
 
