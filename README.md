@@ -1,34 +1,31 @@
-# Hi, I'm Noureddine 👋
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&pause=1500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Noureddine" alt="Name" />
+</p>
 
-Junior Software Developer focused on building clean, practical web applications.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1400&color=FF2D95&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile" alt="Welcome" />
+</p>
 
+## About Me
 - 🎓 Computer Science student
-- 💻 Main stack: **C#, .NET, PHP, SQL, JavaScript**
-- 🛠️ Interested in: backend development, web apps, APIs, and database design
-- 🎯 Goal: contribute to real-world products as an intern / junior developer
+- 💻 Junior Software Developer focused on **.NET / PHP / SQL**
+- 🎯 Goal: contribute to real-world projects as an intern/junior developer
+- 🚀 Building practical web applications and improving code quality every day
 
-## What I’m working on
-- Building full-stack projects with authentication, CRUD workflows, and database integration
-- Improving code quality (project structure, clean commits, readable documentation)
-- Practicing testing and automation basics (Selenium)
+## What I’m Working On
+- Full-stack projects with authentication and CRUD workflows
+- Backend/API fundamentals and database design
+- Test automation basics with Selenium
 
 ## Featured Projects
-> (Pin these repositories on your GitHub profile)
-
 ### 1) Task Management API (.NET + SQL Server)
-REST API for task/workflow management with authentication, role-based access, and validation.  
-**Tech:** ASP.NET Core, Entity Framework, SQL Server, JWT  
-**Highlights:** clean architecture, Swagger docs, seed data, error handling
+REST API with authentication, role-based access, validation, and Swagger docs.
 
 ### 2) E-commerce Mini App (PHP + MySQL)
-Simple e-commerce flow with product catalog, cart, and order logic.  
-**Tech:** PHP, MySQL, HTML/CSS/JS  
-**Highlights:** session-based cart, SQL schema, admin CRUD, secure form handling
+Product catalog, cart flow, and admin CRUD with secure form handling.
 
 ### 3) UI Test Automation Suite (Selenium)
-Automated functional tests for login/cart flows with reusable test structure.  
-**Tech:** Python, Selenium  
-**Highlights:** positive/negative test cases, clear assertions, maintainable test scripts
+Automated tests for login/cart flows with clear assertions and maintainable scripts.
 
 ## Tech Stack
 `C#` `ASP.NET Core` `PHP` `SQL` `JavaScript` `HTML` `CSS` `Git` `GitHub`
